@@ -24,7 +24,7 @@ Other repos that also need to be done.
 These are both Java and Python projects. You will do one or the other.
 
 - [ ] [DanDoBetters](https://github.com/ZCW-Summer25/DanDoBetterDrills) strings and functions and oh my
-- [ ] [UsingReturn1](https://github.com/ZCW-Summer25/UsingReturn1) wait return vs. print/println
+- [ ] [UsingReturn](https://github.com/ZCW-Summer25/UsingReturn) wait return vs. print/println
 - [ ] [ParenSymmetry](https://github.com/ZCW-Summer25/ParenSymmetry) doing some text processing
 - [ ] [CodeInterpreters](https://github.com/ZCW-Summer25/CodeInterpreters.git) objects and interpreters
 
