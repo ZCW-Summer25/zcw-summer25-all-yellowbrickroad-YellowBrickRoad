@@ -30,24 +30,8 @@ These are both Java and Python projects. You will do one or the other.
 
 ### Weekend Projects
 
-- [ScientificCalculator](https://github.com/ZipCodeCore/ScientificCalculator)
-- [Python.ScientificCalculator](https://github.com/ZipCodeCore/Python.ScientificCalculator)
-
-Java students will work on these projects:
-
-### Java Projects
-- [ ] Java/JavaSmall
-- [ ] Java/WordGuess
-
-Data (Python) students will work on these projects:
-
-### Python Projects
-
-- python: https://allendowney.github.io/ThinkPython/
-
-
-### Pipelines 1-4;
-- https://github.com/ZipCodeCore/PipelineOne (maybe next week)
+- [ScientificCalculator](https://github.com/ZCW-Summer25/ScientificCalculator)
+- [Python.ScientificCalculator](https://github.com/ZCW-Summer25/Python.ScientificCalculator)
 
 ## Blaze: zipcode's blogging engine
 
