@@ -23,10 +23,10 @@ They are not really language (java/python) dependent.
 Other repos that also need to be done.
 These are both Java and Python projects. You will do one or the other.
 
-- [ ] [DanDoBetters](https://github.com/ZipCodeCore/DanDoBetterDrills) strings and functions and oh my
-- [ ] [UsingReturn1](https://github.com/ZipCodeCore/UsingReturn1) wait return vs. print/println
-- [ ] [ParenSymmetry](https://github.com/ZipCodeCore/ParenSymmetry) doing some text processing
-- [ ] [CodeInterpreters](https://github.com/ZipCodeCore/CodeInterpreters.git) objects and interpreters
+- [ ] [DanDoBetters](https://github.com/ZCW-Summer25/DanDoBetterDrills) strings and functions and oh my
+- [ ] [UsingReturn1](https://github.com/ZCW-Summer25/UsingReturn1) wait return vs. print/println
+- [ ] [ParenSymmetry](https://github.com/ZCW-Summer25/ParenSymmetry) doing some text processing
+- [ ] [CodeInterpreters](https://github.com/ZCW-Summer25/CodeInterpreters.git) objects and interpreters
 
 ### Weekend Projects
 
